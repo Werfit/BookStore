@@ -1,0 +1,11 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Mac
+.DS_Store
